@@ -1,0 +1,9 @@
+name,mother,father,trait
+Alan,,,1
+Beth,,,
+Carl,,,
+Dana,,,
+Evan,Beth,Alan,
+Fiona,Dana,Carl,0
+Grace,Fiona,Evan,1
+Henry,Fiona,Evan,
